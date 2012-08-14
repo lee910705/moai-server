@@ -11,8 +11,8 @@ KEYCHAIN="/Users/admin/Library/Keychains/login.keychain"
 PROJECT_PATH="/Users/Shared/Jenkins/Home/jobs/moai-test/workspace/moai-dev/xcode/ios "
 
 # identify myself in git
-#git config --global user.email "lee910705@gmail.com"
-#git config --global user.name "Jae Joon Lee"
+git config --global user.email "lee910705@gmail.com"
+git config --global user.name "Jae Joon Lee"
 
 # location of the workspace
 #pwd
